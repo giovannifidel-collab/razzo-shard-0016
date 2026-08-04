@@ -1,6 +1,6 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "started",
+  "state": "completed",
   "workflowRunId": "30960437147",
   "cycleId": "razzo-9fc39d8816c4",
   "generationId": "razzo-9fc39d8816c4:g1",
@@ -11,8 +11,8 @@
   "title": "PFarma Factory and focused regression suite",
   "kind": "verification",
   "exactInputSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "observedSha": null,
-  "durationSeconds": null,
+  "observedSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
+  "durationSeconds": 2.599,
   "error": null,
-  "updatedEpoch": 1785886462.1725023
+  "updatedEpoch": 1785886465.991223
 }
