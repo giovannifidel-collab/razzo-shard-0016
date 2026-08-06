@@ -1,18 +1,18 @@
 {
   "schema": "razzo.public-worker-status.v2",
-  "state": "completed",
-  "workflowRunId": "30960437147",
-  "cycleId": "razzo-9fc39d8816c4",
-  "generationId": "razzo-9fc39d8816c4:g1",
-  "workItemId": "0d529766feadf86280e78cda",
+  "state": "started",
+  "workflowRunId": "31106689586",
+  "cycleId": "razzo-97d202b8af66",
+  "generationId": "razzo-97d202b8af66:g1",
+  "workItemId": "ddb39aa9a793181525006560",
   "shard": "razzo-shard-0016",
   "projectId": "pfarma-cloud",
   "repository": "giovannifidel-collab/pfarma-cloud",
   "title": "PFarma Factory and focused regression suite",
   "kind": "verification",
-  "exactInputSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "observedSha": "4ec4c68669be40b1b6e48fab018c42b4a908362b",
-  "durationSeconds": 2.599,
+  "exactInputSha": "9658af9efd37b631811462158b36000e92369d5c",
+  "observedSha": null,
+  "durationSeconds": null,
   "error": null,
-  "updatedEpoch": 1785886465.991223
+  "updatedEpoch": 1786023377.2813637
 }
